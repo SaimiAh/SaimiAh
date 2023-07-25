@@ -57,7 +57,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
     <img align="center" alt="MATERIALIZE" src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white" />
     <img align="center" alt="REACTJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="Django REST" src="https://img.shields.io/badge/DjangoREST-000000?style=for-the-badge&logo=REST framework&logoColor=white" />
+    <img align="center" alt="Django REST" src="https://img.shields.io/badge/DjangoREST-000000?style=for-the-badge&logo=Django&logoColor=white" />
     <img align="center" alt="MATERIALUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
     <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align="center" alt="Django" src="https://img.shields.io/badge/Django-43853D?style=for-the-badge&logo=Django&logoColor=white" />   
