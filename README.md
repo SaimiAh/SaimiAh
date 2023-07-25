@@ -60,7 +60,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     <img align="center" alt="NEXTJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img align="center" alt="MATERIALUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
     <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img align="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />   
+    <img align="center" alt="Django" src="https://img.shields.io/badge/Django-43853D?style=for-the-badge&logo=Django&logoColor=white" />   
     <img align="center"alt="EXPRESS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /> 
     <img align="center"alt="EXPRESS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" /> 
     <img align="center"alt="GRAPHQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> 
