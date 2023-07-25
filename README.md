@@ -17,7 +17,7 @@ If you're still reading me , why don't we connect?</h4>
 <a href="https://www.linkedin.com/in/saim-ahmad-/">
   <img align="right" alt="Saim's LinkedIN profile" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-	</div>
+</div>
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SaimiAh&label=Profile%20views&color=0e75b6&style=plastic" alt="Saim Ahmad" /> </p>
