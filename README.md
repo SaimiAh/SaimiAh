@@ -14,7 +14,7 @@ If you're still reading me , why don't we connect?</h4>
 <a href="https://www.instagram.com/saimi.chk/">
   <img align="left" alt="Saim's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://www.linkedin.com/in/saim-ahmad-/">
+<a href="https://www.linkedin.com/in/saimahmad-/">
   <img align="right" alt="Saim's LinkedIN profile" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 </div>
