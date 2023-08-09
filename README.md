@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-    <h1>Hi, I'm Saim Ahmad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-    <!-- ... (rest of your content) ... -->
+
 <h1 align="center">Hi , I'm Saim Ahmad<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/SaimiAh/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Engineer;Python+Django+Developer;Exploits+Developer;Django+REST+API;&center=true&width=500&height=50"></a>
@@ -70,5 +68,4 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     <img align="center"alt="DOCKER" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
     <img align="center"alt="GIT" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img align="center"alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />           
-</div>
 </div>
