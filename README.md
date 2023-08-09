@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi , I'm Saim Ahmad<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/SaimiAh/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Engineer;Python+Django+Developer;Exploits+Developer;Django+REST+API;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/SaimiAh/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Pythoneer;Web+Scrapper;Back+End+Dveloper;Python+Django+Developer;Django+REST+API;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h5 align="center">I identify myself as a transparent individual who takes responsibilities seriously and knows how to hustle. Giving attention to detail is one of my strongest traits while I also place strong emphasis on producing clean, quality and well documented code. I consider myself a really good team player who prioritizes the collective over my own self. I love to help others get better and equally like being mentored to improve myself, as a remote full-time Full Stack Engineer where my primary tasks include development and optimization of the company's software products. Apart from my technical knowhow, I have strong communication skills due to my blogging experience and I see myself equally capable when leading or being led. When I'm not doing coding. i like to interact with people. 
+<h5 align="center">Hey fellow coders on GitHub! I'm a Pythoneer who loves crafting dynamic web experiences. From Web Scraping to Back End magic, I work my Python and Django spells. I specialize in crafting smooth applications and building RESTful APIs for seamless interactions. Let's collaborate and turn lines of code into digital art!
 </h5>
 <br/>
 <h4 align="center">
