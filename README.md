@@ -4,7 +4,7 @@
   <a href="https://github.com/SaimiAh/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Pythoneer;Web+Scrapper;Back+End+Developer;Python+Django+Developer;Django+REST+API;Cloud+Stack+Apprentice;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h5 align="center">Hey fellow coders on GitHub! I'm a Pythoneer who loves crafting dynamic web experiences. From Web Scraping to Back End magic, I work my Python and Django spells. I specialize in crafting smooth applications and building RESTful APIs for seamless interactions.I'm also an enthusiastic Cloud Stack Apprentice, exploring the vast skies of cloud technologies. Let's collaborate and turn lines of code into digital art!
+<h5 align="center">Hey fellow coders on GitHub! <br> I'm a Pythoneer who loves crafting dynamic web experiences. From Web Scraping to Back End magic, I work my Python and Django spells. I specialize in crafting smooth applications and building RESTful APIs for seamless interactions.I'm also an enthusiastic Cloud Stack Apprentice, exploring the vast skies of cloud technologies. Let's collaborate and turn lines of code into digital art!
 </h5>
 <br/>
 <h4 align="center">
@@ -15,7 +15,7 @@ If you're still reading me , why don't we connect?</h4>
   <img align="left" alt="Saim's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/saim-ahmad-/">
-  <img align="right" alt="Saim's LinkedIN profile" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="right" alt="Saim's LinkedIN profile" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 </div>
 <br>
