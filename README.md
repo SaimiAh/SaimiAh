@@ -33,9 +33,7 @@ I don't just write code — I build things that work <strong>end to end</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SaimiAh">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaimiAh&custom_title=SaimiAh%20Contribution%20Graph&theme=react-dark&hide_border=true" width="100%" />
-  </a>
+  <img src="https://ghchart.rshah.org/00BFFF/SaimiAh" alt="Saim's Contribution Chart" width="100%" />
 </p>
 
 ## 💻 GitHub Stats
