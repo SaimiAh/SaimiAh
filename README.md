@@ -36,19 +36,19 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaimiAh&theme=algolia" alt="SaimiAh" />
+  <!-- ✅ FIXED: herokuapp is shut down — replaced with demolab -->
+  <img src="https://streak-stats.demolab.com?user=SaimiAh&theme=algolia" alt="SaimiAh" />
 </p>
 
 ## 💻 GitHub Profile Stats
 
 <br/>
 <p align="center">
-  <a href="https://github.com/SaimiAh/github-readme-stats">
-    <img alt="SaimiAh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaimiAh&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-  </a>
+  <!-- ✅ FIXED: public vercel instance is rate-limited — replaced with gh-readme-stats -->
+  <img alt="SaimiAh's Github Stats" src="https://gh-readme-stats.vercel.app/api?username=SaimiAh&show_icons=true&count_private=true&theme=algolia" height="192px"/>
   <br/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaimiAh&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SaimiAh" height="192px"/>
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs?username=SaimiAh&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SaimiAh" height="192px"/>
 </p>
 
 <br/>
