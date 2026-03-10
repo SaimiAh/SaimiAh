@@ -33,7 +33,7 @@ I don't just write code — I build things that work <strong>end to end</strong>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaimiAh&theme=algolia" width="100%" />
+  <img src="https://ghchart.rshah.org/00BFFF/SaimiAh" alt="Saim's Contribution Chart" width="100%" />
 </p>
 
 ## 💻 GitHub Stats
