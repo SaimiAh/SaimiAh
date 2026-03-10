@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Saim Ahmad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&height=55&lines=Pythoneer+%F0%9F%90%8D;Back+End+Developer;Django+%26+REST+API+Specialist;Web+Scraping+Expert;AI+%26+LLM+Integrations;Cloud+Stack+Apprentice+%E2%98%81%EF%B8%8F" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&height=55&lines=Pythoneer+%F0%9F%90%8D;Back+End+Developer;Django+%26+REST+API+Specialist;Automation+Engineer;Web+Scraping+Expert;AI+%26+Language+Model+Engineer;Cloud+Stack+Apprentice+%E2%98%81%EF%B8%8F" />
 </p>
 
 <p align="center">
