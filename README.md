@@ -1,91 +1,109 @@
-<h1 align="center">Hi, I'm Saim Ahmad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/SaimiAh/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Pythoneer;Web+Scrapper;Back+End+Developer;Python+Django+Developer;Django+REST+API;Cloud+Stack+Apprentice;&center=true&width=500&height=50" />
-  </a>
-</p>
+# `< Saim Ahmad />` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 
-<hr/>
-
-<h5 align="center">
-  Hey fellow coders on GitHub! <br>
-  I'm a Pythoneer who loves crafting dynamic web experiences. From Web Scraping to Back End magic, I work my Python and Django spells. I specialize in crafting smooth applications and building RESTful APIs for seamless interactions. I'm also an enthusiastic Cloud Stack Apprentice, exploring the vast skies of cloud technologies. Let's collaborate and turn lines of code into digital art!
-</h5>
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&height=60&lines=Pythoneer+%F0%9F%90%8D;Back+End+Developer;Django+%26+REST+API+Specialist;Web+Scraping+Expert;Cloud+Stack+Apprentice+%E2%98%81%EF%B8%8F" />
+</a>
 
 <br/>
 
-<h4 align="center">If you're still reading me, why don't we connect?</h4>
+---
 
-<p align="center">
-  <a href="https://www.instagram.com/saimi.chk/">
-    <img alt="Saim's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/saimahmad-/">
-    <img alt="Saim's LinkedIn profile" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-  </a>
-</p>
+### 🌐 Connect with me
 
-<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-saimahmad.dev-00BFFF?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://saimahmad.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saim%20Ahmad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saimahmad-/)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaimiAh&label=Profile%20views&color=0e75b6&style=plastic" alt="Saim Ahmad" />
-</p>
+---
+
+</div>
+
+<img align="right" alt="Coding" width="380" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+
+### 👋 About Me
+
+```python
+class SaimAhmad:
+    def __init__(self):
+        self.name       = "Saim Ahmad"
+        self.role       = "Back End Developer"
+        self.languages  = ["Python", "TypeScript", "JavaScript"]
+        self.frameworks = ["Django", "DRF", "NestJS", "Express"]
+        self.database   = ["PostgreSQL", "MongoDB"]
+        self.tools      = ["Docker", "Git", "GraphQL"]
+        self.cloud      = "Apprentice ☁️"
+        self.passion    = "Open Source & Clean APIs"
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something great.")
+
+me = SaimAhmad()
+me.say_hi()
+```
+
+<br clear="right"/>
+
+---
+
+<div align="center">
 
 ## 🔥 Streak Stats
 
-<p align="center">
-  <!-- ✅ FIXED: herokuapp is shut down — replaced with demolab -->
-  <img src="https://streak-stats.demolab.com?user=SaimiAh&theme=algolia" alt="SaimiAh" />
-</p>
+<img src="https://streak-stats.demolab.com?user=SaimiAh&theme=algolia&hide_border=true&border_radius=10" alt="Streak Stats" />
 
-## 💻 GitHub Profile Stats
+## 💻 GitHub Stats
 
-<br/>
-<p align="center">
-  <!-- ✅ FIXED: public vercel instance is rate-limited — replaced with gh-readme-stats -->
-  <img alt="SaimiAh's Github Stats" src="https://gh-readme-stats.vercel.app/api?username=SaimiAh&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-  <br/>
-  &nbsp;
-  <img src="https://gh-readme-stats.vercel.app/api/top-langs?username=SaimiAh&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SaimiAh" height="192px"/>
-</p>
+<img src="https://gh-readme-stats.vercel.app/api?username=SaimiAh&show_icons=true&count_private=true&theme=algolia&hide_border=true&border_radius=10" height="180px"/>
+&nbsp;&nbsp;
+<img src="https://gh-readme-stats.vercel.app/api/top-langs?username=SaimiAh&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true&border_radius=10" height="180px"/>
 
-<br/>
+## ⚡ Contribution Graph
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaimiAh&custom_title=Saim's%20Contribution%20Graph&theme=react-dark&hide_border=true" />
 
-<div align="center">
-  <img height="100%" width="100%" alt="GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 </div>
 
-## ⚡ GitHub Activity Graph
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Databases & APIs**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**Tools & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+*I'm an open-source enthusiast and maintainer — I love how collaboration and knowledge sharing happen through open-source. Let's turn lines of code into digital art!*
 
 <br/>
-<a href="https://github.com/SaimiAh">
-  <!-- ✅ FIXED: activity-graph.herokuapp.com is shut down — replaced with the new working URL -->
-  <img alt="Saim's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SaimiAh&custom_title=SaimiAh%20Contribution%20Graph&theme=react-dark" />
-</a>
-<br/>
 
-## Technologies
+![Profile Views](https://komarev.com/ghpvc/?username=SaimiAh&label=Profile+Views&color=00BFFF&style=for-the-badge)
 
-<div style="display: inline-block"><br />
-  <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img align="center" alt="MATERIALIZE" src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white" />
-  <img align="center" alt="REACTJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="Django-REST" src="https://img.shields.io/badge/Django-REST-000000?style=for-the-badge&logo=Django&logoColor=white" />
-  <img align="center" alt="MATERIALUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-  <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="Django" src="https://img.shields.io/badge/Django-43853D?style=for-the-badge&logo=Django&logoColor=white" />
-  <img align="center" alt="EXPRESS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img align="center" alt="NESTJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img align="center" alt="GRAPHQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img align="center" alt="POSTGRESQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="center" alt="DOCKER" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img align="center" alt="GIT" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
