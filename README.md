@@ -51,7 +51,7 @@ Hey fellow coders! I'm a <strong>Pythoneer</strong> who loves crafting dynamic w
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happen through open-source.
 
 <div align="center">
-  <img width="100%" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+  <img width="60%" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
 </div>
 
 ## 🛠️ Tech Stack
