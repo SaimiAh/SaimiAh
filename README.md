@@ -32,11 +32,7 @@ I don't just write code — I build things that work <strong>end to end</strong>
   <img src="https://streak-stats.demolab.com/?user=SaimiAh&theme=algolia&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/SaimiAh">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaimiAh&custom_title=SaimiAh%20Contribution%20Graph&theme=react-dark&hide_border=true" width="100%" />
-  </a>
-</p>
+
 
 ## 💻 GitHub Stats
 
