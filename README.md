@@ -29,15 +29,15 @@ I don't just write code — I build things that work <strong>end to end</strong>
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SaimiAh&theme=algolia&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=SaimiAh&theme=algolia&hide_border=true&v=2026031114" alt="GitHub Streak" />
 </p>
 
 ## 💻 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-two-murex-14.vercel.app/api?username=SaimiAh&show_icons=true&count_private=true&theme=algolia&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats-two-murex-14.vercel.app/api?username=SaimiAh&show_icons=true&count_private=true&theme=algolia&hide_border=true&v=2026031114" height="180px"/>
   &nbsp;
-  <img src="https://github-readme-stats-two-murex-14.vercel.app/api/top-langs/?username=SaimiAh&layout=compact&theme=algolia&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats-two-murex-14.vercel.app/api/top-langs/?username=SaimiAh&layout=compact&theme=algolia&hide_border=true&v=2026031114" height="180px"/>
 </p>
 
 ## ⚡ Contribution Graph
