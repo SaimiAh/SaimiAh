@@ -21,7 +21,7 @@
 <hr/>
 
 <p align="center">
-I don't just write code I build things that work <strong>end to end</strong>, from the first line of frontend to the last deployment pipeline. Three years in, I have shipped products across every layer of the stack and I am comfortable owning all of it.<br/><br/>Where I spend most of my thinking: <strong>AI</strong>. Generative AI, Agentic AI, large language models in production — this is the space I am genuinely obsessed with and where I believe the most interesting engineering problems live right now.
+I don't just write code — I build things that work <strong>end to end</strong>, from the first line of frontend to the last deployment pipeline. Three years in, I have shipped products across every layer of the stack and I am comfortable owning all of it.<br/><br/>Where I spend most of my thinking: <strong>AI</strong>. Generative AI, Agentic AI, large language models in production — this is the space I am genuinely obsessed with and where I believe the most interesting engineering problems live right now.
 </p>
 
 <br/>
@@ -29,17 +29,21 @@ I don't just write code I build things that work <strong>end to end</strong>, fr
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SaimiAh&theme=algolia&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=SaimiAh&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
+<p align="center">
+  <a href="https://github.com/SaimiAh">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaimiAh&custom_title=SaimiAh%20Contribution%20Graph&theme=react-dark&hide_border=true" width="100%" />
+  </a>
+</p>
 
 ## 💻 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-two-murex-14.vercel.app/api?username=SaimiAh&show_icons=true&count_private=true&theme=algolia&hide_border=true&cache_seconds=3600" height="180px"/>
+  <img src="https://github-readme-stats-two-murex-14.vercel.app/api?username=SaimiAh&show_icons=true&count_private=true&theme=algolia&hide_border=true" height="180px"/>
   &nbsp;
-  <img src="https://github-readme-stats-two-murex-14.vercel.app/api/top-langs/?username=SaimiAh&layout=compact&theme=algolia&hide_border=true&cache_seconds=3600" height="180px"/>
+  <img src="https://github-readme-stats-two-murex-14.vercel.app/api/top-langs/?username=SaimiAh&layout=compact&theme=algolia&hide_border=true" height="180px"/>
 </p>
 
 ## ⚡ Contribution Graph
