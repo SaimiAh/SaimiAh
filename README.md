@@ -29,7 +29,7 @@ I don't just write code — I build things that work <strong>end to end</strong>
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SaimiAh&theme=algolia&hide_border=true&v=2" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=SaimiAh&theme=algolia&hide_border=true&v=2&t=1" alt="GitHub Streak" />
 </p>
 
 ## 💻 GitHub Stats
