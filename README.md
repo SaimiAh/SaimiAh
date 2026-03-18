@@ -48,7 +48,7 @@ I don't just write code - I build things that work <strong>end to end</strong>, 
 
 <br/>
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happen through open-source.
+I am also an open source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happen through open-source.
 
 <div align="center">
   <img width="60%" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
