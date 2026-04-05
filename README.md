@@ -21,7 +21,7 @@
 <hr/>
 
 <p align="center">
-I don't just write code I build things that work <strong>end to end</strong>, from the first line of frontend to the last deployment pipeline. Three years in, I have shipped products across every layer of the stack and I am comfortable owning all of it.<br/><br/>Where I spend most of my thinking: <strong>AI</strong>. Generative AI, Agentic AI, large language models in production — this is the space I am genuinely obsessed with and where I believe the most interesting engineering problems live right now.
+I don't just write code - I build things that work <strong>end to end</strong>, from the first line of frontend to the last deployment pipeline. Three years in, I have shipped products across every layer of the stack and I am comfortable owning all of it.<br/><br/>Where I spend most of my thinking: <strong>AI</strong>. Generative AI, Agentic AI, large language models in production — this is the space I am genuinely obsessed with and where I believe the most interesting engineering problems live right now.
 </p>
 
 <br/>
